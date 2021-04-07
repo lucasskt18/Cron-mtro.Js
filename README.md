@@ -1,2 +1,2 @@
 # Cron-mtro.Js
- Cronômtro Online
+ Neste projeto eu fiz um cronômetro online funcional.
